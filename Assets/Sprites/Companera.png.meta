@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 5763bc1693d976345822b63e02726adb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8043768499115056484
+    second: Companera_0
+  - first:
+      213: 4015869731683290821
+    second: Companera_1
+  - first:
+      213: 5942372523938081368
+    second: Companera_2
+  - first:
+      213: -7509741673804508431
+    second: Companera_3
+  - first:
+      213: -6127565203790333390
+    second: Companera_4
+  - first:
+      213: 3877011752225149633
+    second: Companera_5
+  - first:
+      213: 8510699021704564551
+    second: Companera_6
+  - first:
+      213: -7751603958049854631
+    second: Companera_7
+  - first:
+      213: -4010770838862647312
+    second: Companera_8
+  - first:
+      213: 3303464679792699492
+    second: Companera_9
+  - first:
+      213: 1305073257389956981
+    second: Companera_10
+  - first:
+      213: -996271959950440569
+    second: Companera_11
+  - first:
+      213: -7442586194372025747
+    second: Companera_12
+  - first:
+      213: 3551112047275540233
+    second: Companera_13
+  - first:
+      213: 5443979942840890035
+    second: Companera_14
+  - first:
+      213: -5360130964954858975
+    second: Companera_15
+  - first:
+      213: 8182837069628906072
+    second: Companera_16
+  - first:
+      213: 7692536742819189035
+    second: Companera_17
+  - first:
+      213: 6877871491399067754
+    second: Companera_18
+  - first:
+      213: 7111402851039702616
+    second: Companera_19
+  - first:
+      213: 6222148805270754615
+    second: Companera_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Companera_0
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9225c2fa2bce5090800000000000000
+      internalID: -8043768499115056484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cec9357e3c3bb730800000000000000
+      internalID: 4015869731683290821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aee54935c877250800000000000000
+      internalID: 5942372523938081368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_3
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25fe96cb908c790800000000000000
+      internalID: -7509741673804508431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a780299e386faa0800000000000000
+      internalID: -6127565203790333390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_5
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c21569b5a9edc530800000000000000
+      internalID: 3877011752225149633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 127
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f07fa2ba31c1670800000000000000
+      internalID: 8510699021704564551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_7
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 126
+        width: 14
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b2de81545cc6490800000000000000
+      internalID: -7751603958049854631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffa81a0c21e658c0800000000000000
+      internalID: -4010770838862647312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 35
+        width: 14
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468e71faf9348dd20800000000000000
+      internalID: 3303464679792699492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 35
+        width: 14
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f1798863d8c1210800000000000000
+      internalID: 1305073257389956981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 35
+        width: 14
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c87f4ee78c22f0800000000000000
+      internalID: -996271959950440569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 35
+        width: 14
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62aa3ae94f96b890800000000000000
+      internalID: -7442586194372025747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 35
+        width: 14
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ff777a795184130800000000000000
+      internalID: 3551112047275540233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_14
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 35
+        width: 14
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2f1612ae6ec8b40800000000000000
+      internalID: 5443979942840890035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_15
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 35
+        width: 13
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a3b4c594dfc95b0800000000000000
+      internalID: -5360130964954858975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 35
+        width: 11
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1126d5f64f8170800000000000000
+      internalID: 8182837069628906072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_17
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 35
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21d069296161ca60800000000000000
+      internalID: 7692536742819189035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_18
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 35
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68a0af4eab137f50800000000000000
+      internalID: 6877871491399067754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Companera_19
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 149
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eebe61737c0b260800000000000000
+      internalID: 7111402851039702616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

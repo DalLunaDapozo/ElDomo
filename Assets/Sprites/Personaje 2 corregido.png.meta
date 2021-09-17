@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: b659e3a1d0115d6439344455c103cabf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4145987775395006955
+    second: Personaje 2 corregido_0
+  - first:
+      213: 6163599901645568705
+    second: Personaje 2 corregido_1
+  - first:
+      213: 8026526304836445847
+    second: Personaje 2 corregido_2
+  - first:
+      213: 1291153638767747128
+    second: Personaje 2 corregido_3
+  - first:
+      213: 5501071754218791787
+    second: Personaje 2 corregido_4
+  - first:
+      213: 5335265606984676944
+    second: Personaje 2 corregido_5
+  - first:
+      213: -9195329944387666005
+    second: Personaje 2 corregido_6
+  - first:
+      213: -955102914400004117
+    second: Personaje 2 corregido_7
+  - first:
+      213: -7128314493886661417
+    second: Personaje 2 corregido_8
+  - first:
+      213: -1128957061817541799
+    second: Personaje 2 corregido_9
+  - first:
+      213: 5298147842657920834
+    second: Personaje 2 corregido_10
+  - first:
+      213: 7428356011025774430
+    second: Personaje 2 corregido_11
+  - first:
+      213: -4999817512241849302
+    second: Personaje 2 corregido_12
+  - first:
+      213: -4936891907103576731
+    second: Personaje 2 corregido_13
+  - first:
+      213: -6191334608057553151
+    second: Personaje 2 corregido_14
+  - first:
+      213: 9059984344947484310
+    second: Personaje 2 corregido_15
+  - first:
+      213: -1795871487682979631
+    second: Personaje 2 corregido_16
+  - first:
+      213: 922383520322114741
+    second: Personaje 2 corregido_17
+  - first:
+      213: 9055333010580641616
+    second: Personaje 2 corregido_18
+  - first:
+      213: 5174757961456322820
+    second: Personaje 2 corregido_19
+  - first:
+      213: -8787322697740727415
+    second: Personaje 2 corregido_20
+  - first:
+      213: 6792180678062483196
+    second: Personaje 2 corregido_21
+  - first:
+      213: -752636254091803790
+    second: Personaje 2 corregido_22
+  - first:
+      213: 3790253492963308632
+    second: Personaje 2 corregido_23
+  - first:
+      213: 411173844399313356
+    second: Personaje 2 corregido_24
+  - first:
+      213: 1876562733033916557
+    second: Personaje 2 corregido_25
+  - first:
+      213: 3319009034156423906
+    second: Personaje 2 corregido_26
+  - first:
+      213: -6051903539324502965
+    second: Personaje 2 corregido_27
+  - first:
+      213: -8547510211138313495
+    second: Personaje 2 corregido_28
+  - first:
+      213: -4160627377025200587
+    second: Personaje 2 corregido_29
+  - first:
+      213: -9155157280675851855
+    second: Personaje 2 corregido_30
+  - first:
+      213: -7418963346174926105
+    second: Personaje 2 corregido_31
+  - first:
+      213: -2155928435667315619
+    second: Personaje 2 corregido_32
+  - first:
+      213: 1598015077956148728
+    second: Personaje 2 corregido_33
+  - first:
+      213: 4774626315741425724
+    second: Personaje 2 corregido_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personaje 2 corregido_0
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 411
+        width: 2241
+        height: 2715
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f77ca51e7676c0800000000000000
+      internalID: -4145987775395006955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje 2 corregido_6
+      rect:
+        serializedVersion: 2
+        x: 4064
+        y: 354
+        width: 1171
+        height: 2682
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafb2407220a36080800000000000000
+      internalID: -9195329944387666005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personaje 2 corregido_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 363
+        width: 1304
+        height: 2557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a021646dc68940800000000000000
+      internalID: 5298147842657920834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
